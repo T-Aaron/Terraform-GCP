@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "victus-394017",
+  "private_key_id": "70cae1f339cab32d0d4a5acf4ef5c59d9c90c576",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDCN/DpFC4GiRPP\nQFzrD9fYMEaLQYJULddkqaAXUQwpt5RAlD7AEzyeBCaqCim/nib1Cu1xQEmdAr1Y\n3LOw4+etDJ6X0WZGuVDyPqyVbHFcq2X1H/V+Aik33qixPzmkbqHPl3Iw5AOoCb2P\nfek24qupJkVfMWgwBECs31YPtHv4nqOU5dfNScn18Dwsbrrb+M7hZjx7feg7wYhA\nxx0Cx0DT8MdptfGVPYZGJ6KJhcBDimnTCLVOEVG6EhygZicZGn4C5MhNN5UrgT7b\nKgQDOYrYWqaBs6z9NeIai3T5/W5ldQgTUuTjdhuERnCnMxd7un9TrVt0kdCeZl3m\nvT/r27MTAgMBAAECggEADMDepXeJRC2ZKulXkKn0KwKUh01wcPWnqLkIxa8xRMYE\nyq7RZgx9VQUBwvWy4x3QAhRLHj4x90j4RQ8ND6cPjgn/mgmKlUdS/O1HqPI7iXHJ\n2qxUEweyTDRnUGhN8THAl2CjA3ndkZm+JF+Iwm1lB1D3ijY02L5WvuNVg+d+oocu\n78UznXFOZv5tIq+11KI//MblR97q8OtBnecyp/vVPyXiWGQ5GOpP34VIIW7NA6PS\no5s2qXPk5q1bqstFnVkFXysVXZHaZp+HGy+oRhLwO8URiBgDYgFXVj0JmFTgdRMn\nn/XCorB+wK2W1CD5eHnfaUUS0bbcgL+LDBXgkGABzQKBgQDtmW5SDXEB+mphORa2\npTN0Qn+17orT4xaLQAiEIQOXucYW6pkPU4uUNy4lFxgP00lzWQex5sx9izPOEqq+\nxyzFB6ODaSCgI5Y1ekRBb95crtgPIljjh536nFbdv6Pn3knsqczH0ney6gLuAldU\nCaaoHgZvIgb+ltBJcAvQ8ffJDQKBgQDRQnSshqe+asXTRSWZxa6utAZvx/pgtPqr\nFJ+/+8Kx7+TSr1KSLfsRJm7J0JmBD6CwjfDRKD1XnTroI34r7ySsziMbgk+H0LBt\nx2gghU4D+U7hL36/dusinig6Ooej25Kw3XhG+kMecUHYJI7P0l2cTzttARg08viw\n4CrG6XAknwKBgQDOtfLV7h3IQ83zYdCR/K4EUqp7ZNphN6twYLhIA9T1VsmxPE8H\nl37S5yL9X9cuRXscoHNiYlK8UrQyb+ke63fWvyuR849P40YWppXlfGcvqWoN2KsO\n4PkfhI7Kg6Uc4DbecGfZ3REIljEQUvcZBQB6OQ0N+MOvERSLH7EYCruxrQKBgEhS\nSXSfDTZYPIqp6TbeBWNHwLm9SaFGqyOZeySk5EMO/+x4v3baAV2KBNwnBgZ+2jBq\nvgHrgFfZdVRpf9+7RNecXrHRNZ9g1rj6I9ipea8R6NsWyR1vAhDyzEBjniFZb7dE\ns58EO1I4HmOPLvRQZh3xnD4uFKmoF585uk8IusNNAoGBAOJGmwVu8SvH0snyaA+O\nrPrb+GM+rEwWB8NISGEa2eKvCBCU4R7ZU0sNqTQBfMOjcE7W71H4vXW4TZmmFavm\ntL+Y8yliRjaiAN+H2Wf0q4i6F//3JnGHPrPLIZNRdzG6dVVIN+AiCWblEy/+VzML\nPX4IuQxvaZri7p3J1mcLJJck\n-----END PRIVATE KEY-----\n",
+  "client_email": "service-account@victus-394017.iam.gserviceaccount.com",
+  "client_id": "107282080961555728250",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/service-account%40victus-394017.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
